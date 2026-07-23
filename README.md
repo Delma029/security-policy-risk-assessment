@@ -46,7 +46,7 @@ working ISMS, not a coincidence.
 | [`02-statement-of-applicability`](docs-pdf/02-statement-of-applicability.pdf) | All 93 ISO/IEC 27001:2022 Annex A controls assessed Yes / Partial / No for Nexora, with justification for each |
 | [`03-internal-audit-checklist`](docs-pdf/03-internal-audit-checklist.pdf) | 15 sample audit checks (ISO 27001 Clause 9.2) verifying SoA claims against evidence; 4 non-conformities raised |
 | [`04-gap-analysis-remediation-roadmap`](docs-pdf/04-gap-analysis-remediation-roadmap.pdf) | POA&M-style prioritized action plan consolidating all open SoA gaps and audit findings, with owners and target dates |
-| [`05-grc-control-tracker.xlsx`](docs/05-grc-control-tracker.xlsx) | Operational spreadsheet: all 93 controls with SoA status, audit result, and linked remediation item, with live summary formulas |
+| [`05-grc-control-tracker`](docs/05-grc-control-tracker.csv) | Operational spreadsheet: all 93 controls with SoA status, audit result, and linked remediation item, with live summary formulas. [CSV](docs/05-grc-control-tracker.csv) renders as an interactive table on GitHub; [PDF](docs-pdf/05-grc-control-tracker.pdf) preserves the color-coded Legend/Summary tabs; [.xlsx](docs/05-grc-control-tracker.xlsx) is the original with working formulas |
 
 (PDF versions render directly in GitHub; `.docx`/`.xlsx` originals are in
 [`/docs`](docs/) for editing.)
